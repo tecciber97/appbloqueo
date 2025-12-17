@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+httpx
+apscheduler
+jinja2
+python-dotenv
+msal
+pydantic>=2.0
+itsdangerous
+python-multipart
+pydantic-settings
+gunicorn
